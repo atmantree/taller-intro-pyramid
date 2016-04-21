@@ -3,7 +3,7 @@
 Para poder revisar el comportamiento de la aplicación y corregir eventuales
 errores se debe contar con una herramienta robusta. Esto es del __Debug Toolbar__.
 
-# Pasos
+## Pasos
 
 1. Cambiese a la carpeta `03`
 2. Copie los archivos fuentes del ejercicio anterior
