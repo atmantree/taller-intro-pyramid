@@ -3,7 +3,7 @@
 ## Clonar repositorio
 
 ```
-$ git clone http://repos.atmantree.com/atmantree/taller-intro-pyramid.git
+$ git clone https://github.com/atmantree/taller-intro-pyramid.git
 $ cd taller-intro-pyramid
 $
 ```
