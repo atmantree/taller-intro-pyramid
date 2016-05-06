@@ -13,6 +13,9 @@ tópicos para ser tomados en cuenta de ser posible.
 5. CMS y Aplicaciones basadas en Pyramid (ejemplos de [Kotti](http://kotti.pylonsproject.org/), [Substance-D](http://www.substanced.net/) y [Ringo](http://ringo.readthedocs.org/))
 6. Más recursos de Pyramid
 
-  * [Documentación Oficial](http://docs.pylonsproject.org/projects/pyramid/)
+  * [Try Pyramid](https://trypyramid.com/)
+  * [Documentación Oficial](http://docs.pylonsproject.org/projects/pyramid/en/latest/)
+  * [Pyramid Resources](https://trypyramid.com/resources.html)
+  * [Pyramid Resources](https://trypyramid.com/resources.html)
   * [Pyramid Community Cookbook](http://pyramid-cookbook.readthedocs.org)
   * [Awesome Pyramid](https://github.com/uralbash/awesome-pyramid)
