@@ -23,9 +23,10 @@ diferencias.
 
 ## Referencias sobre Pyramid
 
-* [Pylon Project](http://www.pylonsproject.org/)
-* [About Pyramid](http://www.pylonsproject.org/projects/pyramid/about)
-* [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
+* [Try Pyramid](https://trypyramid.com/)
+* [Pyramid Resources](https://trypyramid.com/resources.html)
+* [Pyramid Documentation](http://docs.pylonsproject.org/projects/pyramid/en/latest/)
+* [Extending Pyramid](https://trypyramid.com/resources-extending-pyramid.html)
 
 ## Contribuciones
 
